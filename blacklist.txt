@@ -1,12 +1,48 @@
-Add
-your
-blacklisted
-terms
-with
-one
-word
-or phrase
-on
-each
-line
-([^\w+]|^)not partial hit([^\w+]|$)
+young girl
+little girl
+little young girl
+preteen
+adult and baby
+baby
+petite
+16 years old
+15 years old
+14 years old
+13 years old
+12 years old
+11 years old
+10 years old
+9 years old
+8 years old
+7 years old
+6 years old
+5 years old
+4 years old
+3 years old
+2 years old
+1 years old
+16yo
+15yo
+14yo
+13yo
+12yo
+11yo
+10yo
+9yo
+8yo
+7yo
+6yo
+5yo
+4yo
+3yo
+2yo
+1yo
+loli
+black nude naked strong muscular male
+black male
+daugther
+vulva
+cunt
+vagina
+little beautiful naked blonde young girl
+([^\w+]|^)black male([^\w+]|$)
